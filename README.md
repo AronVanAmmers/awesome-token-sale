@@ -84,7 +84,7 @@ List of content:
   * [Product Hunt](https://www.producthunt.com/)
 
 ### Conferences
-* [Token Summit](http://tokensummit.com/) - 
+* [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
 
 # Other Resources
 
