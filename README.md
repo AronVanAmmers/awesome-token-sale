@@ -70,6 +70,17 @@ List of content:
 * [CryptocurrencyTalk](https://cryptocurrencytalk.com)
 
 ### Press
+* Cryptocurrency
+  * [Coindesk](http://www.coindesk.com/)
+  * [CoinTelegraph](https://cointelegraph.com/)
+  * [Bitcoin Magazine](https://bitcoinmagazine.com/)
+  * [CoinJournal](https://coinjournal.net/)
+* General
+  * [Forbes](https://www.forbes.com)
+  * [TechCrunch](https://techcrunch.com/)
+  * [Yahoo Finance](https://finance.yahoo.com/)
+  * [Product Hunt](https://www.producthunt.com/)
+
 
 # Other Resources
 
