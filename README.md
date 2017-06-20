@@ -9,6 +9,8 @@ List of content:
   * [PR](#pr)
   * [Investment](#investment)
   * [Token Audit](#token-audit)
+* Legal
+  * [Structures](#structures)
 * Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
@@ -39,6 +41,11 @@ List of content:
 
 ## Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
+
+# Legal
+
+## Structures
+* [SAFT](https://coinlist.co/about/help/saft)
 
 # Marketing
 
