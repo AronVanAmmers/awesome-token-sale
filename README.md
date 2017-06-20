@@ -17,6 +17,7 @@ List of content:
   * [Podcasts](#podcasts)
   * [Advertise](#advertise)
   * [Forums](#forums)
+  * [Chats](#chats)
   * [Press](#press)
   * [Conferences](#conferences)
 * Smart Contracts
@@ -80,6 +81,10 @@ List of content:
 ### Forums
 * [BitcoinTalk](https://bitcointalk.org)
 * [CryptocurrencyTalk](https://cryptocurrencytalk.com)
+
+### Chats
+* [CoinFund #crowdsales](https://coinfund.io/)
+* [Cryptopia #ico-analysis](https://cryptocopia.herokuapp.com/)
 
 ### Press
 * Cryptocurrency
