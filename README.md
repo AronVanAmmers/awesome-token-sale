@@ -28,7 +28,9 @@ List of content:
 * [Argon Group](https://argongroup.com/) - Full service token sale advisory - (Blockchain Cap, Civic)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC which which advises token sales - (Cofoundit, Musiconomi)
 * [TokenMarket](https://tokenmarket.net/ico-professional-services) - Full service token sale advisory - (FirstBlood)
+* [Ambisafe](https://www.ambisafe.co/services/) - Offer various services around token sales - (TAAS)
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
+
 
 ### Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
