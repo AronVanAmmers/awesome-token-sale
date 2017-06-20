@@ -19,6 +19,8 @@ List of content:
   * [Forums](#forums)
   * [Press](#press)
   * [Conferences](#conferences)
+* Smart Contracts
+  * [Libraries](#libraries)
 * Other Resources
   * [Whitepaper Examples](#whitepaper-examples)
   * [Articles](#articles)
@@ -91,6 +93,11 @@ List of content:
 ### Conferences
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
 * [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
+
+# Smart Contracts
+
+## Libraries
+* [OpenZeppelin](https://openzeppelin.org/) - An open framework of reusable and secure smart contracts in the Solidity language.
 
 # Other Resources
 
