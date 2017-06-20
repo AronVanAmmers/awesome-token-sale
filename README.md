@@ -7,7 +7,8 @@ List of content:
   * [Advisory](#advisory)   
   * [Legal](#legal)
   * [PR](#pr)
-  * [Investors](#investors)
+  * [Investment](#investment)
+  * [Token Audit](#token-audit)
 * Spreading the word 
   * [Listings](#listings)
   * [Podcasts](#podcasts)
@@ -29,11 +30,14 @@ List of content:
 ## PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
 
-## Investors
+## Investment
 * [Boost VC](https://www.boost.vc/)
 * [Blockchain Capital](http://blockchain.capital/)
 * [Digital Currency Group](http://dcg.co/)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
+
+## Token Audit
+* [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
 
 # Marketing
 
