@@ -27,6 +27,7 @@ List of content:
 * [Argon Group](https://argongroup.com/) - Full service token sale advisory - (Blockchain Cap, Civic)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC which which advises token sales - (Cofoundit, Musiconomi)
 * [TokenMarket](https://tokenmarket.net/ico-professional-services) - Full service token sale advisory - (FirstBlood)
+* [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
 
 ### Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
@@ -40,6 +41,7 @@ List of content:
 * [Blockchain Capital](http://blockchain.capital/)
 * [Digital Currency Group](http://dcg.co/)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
+* [NewAlchemy](https://newalchemy.io/investment)
 
 ### Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
