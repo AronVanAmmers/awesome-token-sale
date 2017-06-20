@@ -15,6 +15,7 @@ List of content:
   * [Listings](#listings)
   * [Podcasts](#podcasts)
   * [Advertise](#advertise)
+  * [Forums](#forums)
   * [Press](#press)
 * Other Resources
   * [Whitepaper Examples](#whitepaper-examples)
@@ -60,6 +61,11 @@ List of content:
 * [Blockchain Innovations](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
 
 ### Advertise
+* [CoinMarketCap](https://coinmarketcap.com/)
+
+### Forums
+* [BitcoinTalk](https://bitcointalk.org)
+* [CryptocurrencyTalk](https://cryptocurrencytalk.com)
 
 ### Press
 
