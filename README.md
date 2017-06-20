@@ -4,38 +4,46 @@ Curated list of the token sale resources:
 
 List of content:
 * Services
-  * [Advisory Services](#advisory-services)   
-  * [Legal](#legal)
-  * [PR](#pr)
-  * [Investors](#investors)
+ * [Advisory Services](#advisory-services)   
+ * [Legal](#legal)
+ * [PR](#pr)
+ * [Investors](#investors)
 * Spreading the word 
-  * [Listings](#listings)
-  * [Advertise](#advertise)
-  * [Podcasts]
+ * [Listings](#listings)
+ * [Podcasts](#podcasts)
+ * [Advertise](#advertise)
 * Other Resources
-  * [Articles](#articles)
+ * [Whitepaper Examples](#whitepaper-examples)
+ * [Articles](#articles)
 
-# Advisory Services
+# Services
+
+## Advisory Services
 * [Argon Group](https://argongroup.com/) - Full service token sale assistence - (Blockchain Cap, Civic)
 
-# Legal
+## Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
 * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - (Civic)
 
-# PR
+## PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
 
-# Investors
+## Investors
 * [Boost VC]
 * [Blockchain Capital]
 
-# Listings
+
+# Marketing
+
+## Listings
+
+## Podcasts
+
+## Advertise
 
 
-# Advertise
+# Other Resources
 
+## Whitepaper Examples
 
-# Whitepaper Examples
-
-
-# Articles
+## Articles
