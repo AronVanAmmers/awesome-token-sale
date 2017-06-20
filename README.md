@@ -9,10 +9,11 @@ List of content:
   * [PR](#pr)
   * [Investment](#investment)
   * [Token Audit](#token-audit)
-* Spreading the word 
+* Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
   * [Advertise](#advertise)
+  * [Press](#press)
 * Other Resources
   * [Whitepaper Examples](#whitepaper-examples)
   * [Articles](#articles)
@@ -42,6 +43,7 @@ List of content:
 # Marketing
 
 ## Listings
+* [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
 
 ## Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
@@ -51,6 +53,7 @@ List of content:
 
 ## Advertise
 
+## Press
 
 # Other Resources
 
