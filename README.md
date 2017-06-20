@@ -18,5 +18,5 @@ List of content:
 
 
 # PR
-
+* [Wachsman PR](http://wachsmanpr.com/) PR team with extensive token sale experience
 
