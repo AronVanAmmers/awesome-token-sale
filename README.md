@@ -23,6 +23,8 @@ List of content:
   * [Whitepaper Examples](#whitepaper-examples)
   * [Articles](#articles)
 
+---
+
 # Services
 
 ### Advisory
