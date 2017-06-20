@@ -83,8 +83,8 @@ List of content:
 * [CryptocurrencyTalk](https://cryptocurrencytalk.com)
 
 ### Chats
-* [CoinFund #crowdsales](https://coinfund.io/)
-* [Cryptopia #ico-analysis](https://cryptocopia.herokuapp.com/)
+* [CoinFund Slack - #crowdsales](https://coinfund.io/)
+* [Cryptopia Slack - #ico-analysis](https://cryptocopia.herokuapp.com/)
 
 ### Press
 * Cryptocurrency
