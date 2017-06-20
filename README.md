@@ -4,17 +4,17 @@ Curated list of the token sale resources:
 
 List of content:
 * Services
- * [Advisory Services](#advisory-services)   
- * [Legal](#legal)
- * [PR](#pr)
- * [Investors](#investors)
+  * [Advisory Services](#advisory-services)   
+  * [Legal](#legal)
+  * [PR](#pr)
+  * [Investors](#investors)
 * Spreading the word 
- * [Listings](#listings)
- * [Podcasts](#podcasts)
- * [Advertise](#advertise)
+  * [Listings](#listings)
+  * [Podcasts](#podcasts)
+  * [Advertise](#advertise)
 * Other Resources
- * [Whitepaper Examples](#whitepaper-examples)
- * [Articles](#articles)
+  * [Whitepaper Examples](#whitepaper-examples)
+  * [Articles](#articles)
 
 # Services
 
