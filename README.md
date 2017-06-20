@@ -9,7 +9,7 @@ List of content:
 - [PR](#pr)
 
 # Legal
-
+* [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales (Civic)
 
 # Listings
 
@@ -18,5 +18,5 @@ List of content:
 
 
 # PR
-* [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience
+* [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience (Lisk, Aragon, etc)
 
