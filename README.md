@@ -23,8 +23,9 @@ List of content:
 # Services
 
 ## Advisory
-* [Argon Group](https://argongroup.com/) - Full service token sale assistence - (Blockchain Cap, Civic)
+* [Argon Group](https://argongroup.com/) - Full service token sale advisory - (Blockchain Cap, Civic)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC which which advises token sales - (Cofoundit, Musiconomi)
+* [TokenMarket](https://tokenmarket.net/ico-professional-services) - Full service token sale advisory - (FirstBlood)
 
 ## Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
@@ -65,5 +66,7 @@ List of content:
 # Other Resources
 
 ## Whitepaper Examples
+* [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
+* [Status](https://status.im/whitepaper.pdf)
 
 ## Articles
