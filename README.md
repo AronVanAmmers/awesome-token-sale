@@ -1,6 +1,8 @@
 <h3 align="center">Awesome Token Sale<!-- Serve Confidently. --></h3>
 <p align="center">Curated list of the token sale resources</p>
+
 ---
+
 List of content:
 * Services
   * [Advisory](#advisory)   
