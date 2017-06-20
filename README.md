@@ -85,6 +85,7 @@ List of content:
 
 ### Conferences
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
+* [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
 
 # Other Resources
 
