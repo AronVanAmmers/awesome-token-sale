@@ -9,6 +9,7 @@ List of content:
 - [PR](#pr)
 
 # Legal
+* [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
 * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales (Civic)
 
 # Listings
