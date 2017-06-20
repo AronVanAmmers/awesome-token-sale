@@ -48,8 +48,11 @@ List of content:
 * [Boost VC](https://www.boost.vc/)
 * [Blockchain Capital](http://blockchain.capital/)
 * [Digital Currency Group](http://dcg.co/)
+* [Polychain Capital](http://polychain.capital/) - US based hedge fund by Olaf Carlson-Wee
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
+* [CoinFund](https://coinfund.io/) - US based private investment vehicle
 * [NewAlchemy](https://newalchemy.io/investment)
+* [Kryponite1]() - UK based publicly listed investment company
 
 ### Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
