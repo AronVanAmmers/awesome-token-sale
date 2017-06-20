@@ -17,6 +17,7 @@ List of content:
   * [Advertise](#advertise)
   * [Forums](#forums)
   * [Press](#press)
+  * [Conferences](#conferences)
 * Other Resources
   * [Whitepaper Examples](#whitepaper-examples)
   * [Articles](#articles)
@@ -55,6 +56,7 @@ List of content:
 
 ### Listings
 * [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
+* [TokenMarket](https://tokenmarket.net/)
 
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
@@ -81,6 +83,8 @@ List of content:
   * [Yahoo Finance](https://finance.yahoo.com/)
   * [Product Hunt](https://www.producthunt.com/)
 
+### Conferences
+* [Token Summit](http://tokensummit.com/) - 
 
 # Other Resources
 
