@@ -133,9 +133,9 @@ List of content:
 
 ### Libraries
 * [OpenZeppelin](https://openzeppelin.org/) - An open framework of reusable and secure smart contracts in the Solidity language.
-* [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
 ### Token Examples
+* [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
 # Whitepapers
 
