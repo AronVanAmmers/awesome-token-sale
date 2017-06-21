@@ -27,6 +27,7 @@ List of content:
   * [Whitepaper Examples](#whitepaper-examples)
   * [Community Organizations](#community-organizations)
   * [Articles](#articles)
+  * [Videos](#videos)
 
 ---
 
@@ -89,6 +90,7 @@ List of content:
 
 ### Advertise
 * [CoinMarketCap](https://coinmarketcap.com/)
+* [CoinFox](http://www.coinfox.info/)
 
 ### Forums
 * [BitcoinTalk](https://bitcointalk.org)
@@ -107,12 +109,16 @@ List of content:
   * [CoinReport](https://coinreport.net/)
   * [BlockchainNews](http://www.the-blockchain.com/)
   * [CoinSpeaker](http://www.coinspeaker.com/)
+  * [CoinFox](http://www.coinfox.info/)
+  * [CoinIdol](https://coinidol.com/)
+  * [TheMerkle](https://themerkle.com/)
 * General
   * [Rueters](http://www.reuters.com/)
   * [Forbes](https://www.forbes.com)
   * [TechCrunch](https://techcrunch.com/)
   * [Yahoo Finance](https://finance.yahoo.com/)
   * [Product Hunt](https://www.producthunt.com/)
+  * [Nasdaq](http://www.nasdaq.com/)
 
 ### Conferences
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
@@ -134,3 +140,7 @@ List of content:
 * [Hyperledger](https://www.hyperledger.org/)
 
 ### Articles
+
+### Videos
+* [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
+
