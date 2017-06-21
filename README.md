@@ -82,13 +82,24 @@ List of content:
 #### Organizational Structures
 * [Stiftung](https://www.wikiwand.com/en/Stiftung)
 
+### Resources
+* [A Securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
+* [Legality of bitcoin by country or territory](https://www.wikiwand.com/en/Legality_of_bitcoin_by_country_or_territory)
+* [IRS Virtual Currency Guidance](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance)
+* [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
+* [BitLegal Map](http://map.bitlegal.io/)
+
 # Marketing
 
 ### Listings
 * [Smith & Crown](https://www.smithandcrown.com)
+* [Token Sale Calendar](http://www.tokensalecalendar.com/) - Evan Van Ness' token sale calendar
 * [CryptoCompare](https://www.cryptocompare.com/)
 * [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
 * [TokenMarket](https://tokenmarket.net/)
+* [ICO Calendar](https://github.com/Scanate/UltimateICOCalendar)
+* [Token Investor](https://tokeninvestor.com/)
+* [imToken ICO Dapp](https://ico.token.im/)
 
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
@@ -132,6 +143,7 @@ List of content:
 ### Conferences
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
 * [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
+* [Devcon](https://ethereumfoundation.org/devcon3/) - Devcon (Ethereum Foundation) - Cancun, MX
 
 ### Community Organizations
 * [Hyperledger](https://www.hyperledger.org/)
@@ -153,6 +165,7 @@ List of content:
 # Other Resources
 
 ### Articles
+* [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale)
 
 ### Videos
 * [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
