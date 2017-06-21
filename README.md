@@ -74,7 +74,10 @@ List of content:
 # Legal
 
 ### Structures
+#### Investment Structures
 * [SAFT](https://coinlist.co/about/help/saft)
+#### Organizational Structures
+* [Stiftung](https://www.wikiwand.com/en/Stiftung)
 
 # Marketing
 
