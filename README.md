@@ -5,12 +5,13 @@
 
 List of content:
 * Services
-  * [Advisory](#advisory)   
+  * [Advisory](#advisory)  
   * [Legal](#legal)
   * [Financial](#financial)
   * [Investment](#investment)
   * [Development](#development)
   * [PR](#pr)
+  * [Business](#business)
 * Legal
   * [Structures](#structures)
 * Marketing
@@ -69,6 +70,9 @@ List of content:
 
 ### PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
+
+### Business
+* [Deloitte](https://www2.deloitte.com/nl/nl/pages/risk/solutions/blockchain.html)
 
 # Legal
 
