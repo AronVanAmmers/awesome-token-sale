@@ -7,11 +7,11 @@ List of content:
 * Services
   * [Advisory](#advisory)   
   * [Legal](#legal)
-  * [PR](#pr)
   * [Financial](#financial)
   * [Investment](#investment)
   * [Development](#development)
   * [Token Audit](#token-audit)
+  * [PR](#pr)
 * Legal
   * [Structures](#structures)
 * Marketing
@@ -45,9 +45,6 @@ List of content:
 * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - International - (Civic)
 * [NovakRutar](http://www.novakrutar.si/en/) - Signapore - (Aragon)
 
-### PR
-* [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
-
 ### Financial
 * [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
 
@@ -67,6 +64,9 @@ List of content:
 
 ### Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
+
+### PR
+* [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
 
 # Legal
 
