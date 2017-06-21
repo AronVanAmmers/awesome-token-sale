@@ -9,6 +9,7 @@ List of content:
   * [Legal](#legal)
   * [PR](#pr)
   * [Investment](#investment)
+  * [Development](#development)
   * [Token Audit](#token-audit)
 * Legal
   * [Structures](#structures)
@@ -55,6 +56,9 @@ List of content:
 * [CoinFund](https://coinfund.io/) - US based private investment vehicle
 * [NewAlchemy](https://newalchemy.io/investment)
 * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
+
+### Development
+* [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
 
 ### Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
