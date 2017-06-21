@@ -102,6 +102,7 @@ List of content:
 * [Smith & Crown](https://www.smithandcrown.com)
 * [ICO Rating](http://icorating.com/)
 * [TokenMarket](https://tokenmarket.net/)
+* [ICO Crypto Reddit](https://www.reddit.com/r/icocrypto/)
 * [CryptoCompare](https://www.cryptocompare.com/)
 * [ICO Countdown](http://www.icocountdown.com/)
 * [ICO List](https://www.ico-list.com/)
@@ -114,6 +115,7 @@ List of content:
 * [CyberFund](https://cyber.fund/)
 * [ICO Timeline](https://icotimeline.com/)
 * [ICO Tracker](https://icotracker.net/)
+
 
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
