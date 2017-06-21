@@ -16,7 +16,7 @@ List of content:
 * Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
-  * [Advertise](#advertise)
+  * [Advertisements](#advertisements)
   * [Forums](#forums)
   * [Chats](#chats)
   * [Press](#press)
@@ -90,7 +90,7 @@ List of content:
 * [Blockchain Innovations](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
 * [Epicenter](https://www.youtube.com/channel/UCh-0T48JrvvmKDX41aWB_Vg)
 
-### Advertise
+### Advertisements
 * [CoinMarketCap](https://coinmarketcap.com/)
 * [CoinFox](http://www.coinfox.info/)
 
