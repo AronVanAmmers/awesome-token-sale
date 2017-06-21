@@ -15,6 +15,10 @@ List of content:
   * [Business](#business)
 * Legal
   * [Structures](#structures)
+  * [Resources](#resources)
+* Financial Regulatory
+  * [Resources](#resources)
+  * [Articles](#articles)
 * Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
@@ -92,9 +96,17 @@ List of content:
 * [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f)
 * [A Securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
 * [Legality of bitcoin by country or territory](https://www.wikiwand.com/en/Legality_of_bitcoin_by_country_or_territory)
-* [IRS Virtual Currency Guidance](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance)
 * [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
 * [BitLegal Map](http://map.bitlegal.io/)
+
+# Financial Regulatory
+
+### Resources
+* [IRS Virtual Currency Guidance](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance) - IRC
+* [Ponzi schemes Using virtual Currencies](https://www.sec.gov/investor/alerts/ia_virtualcurrencies.pdf) - SEC
+
+### Articles
+* [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
 
 # Marketing
 
