@@ -8,6 +8,7 @@ List of content:
   * [Advisory](#advisory)   
   * [Legal](#legal)
   * [PR](#pr)
+  * [Financial](#financial)
   * [Investment](#investment)
   * [Development](#development)
   * [Token Audit](#token-audit)
@@ -46,6 +47,9 @@ List of content:
 
 ### PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
+
+### Financial
+* [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
 
 ### Investment
 * [Boost VC](https://www.boost.vc/)
