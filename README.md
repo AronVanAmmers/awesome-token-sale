@@ -46,8 +46,8 @@ List of content:
 ### Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - Switzerland - (Ethereum)
 * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - International - (Civic)
-* [NovakRutar](http://www.novakrutar.si/en/) - Signapore - (Aragon)
 * [Cooley](https://www.cooley.com/) - Has helped multiple token sales, funds, and exchanges - Primarily US / International
+* [NovakRutar](http://www.novakrutar.si/en/) - Signapore - (Aragon)
 
 ### Financial
 * [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
