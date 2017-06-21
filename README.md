@@ -93,6 +93,8 @@ List of content:
   * [CoinTelegraph](https://cointelegraph.com/)
   * [Bitcoin Magazine](https://bitcoinmagazine.com/)
   * [CoinJournal](https://coinjournal.net/)
+  * [CoinReport](https://coinreport.net/)
+  * [BlockchainNews](http://www.the-blockchain.com/)
 * General
   * [Forbes](https://www.forbes.com)
   * [TechCrunch](https://techcrunch.com/)
