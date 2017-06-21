@@ -187,7 +187,7 @@ List of content:
 * [EDCON](https://edcon.io/) - European Ethereum Development Conference - Paris, France
 
 ### Meetups
-* [London Ethereum Meetup](https://www.meetup.com/ethereum/)
+* [Ethereum Meetups](https://www.meetup.com/topics/ethereum/all/)
 
 ### Community Organizations
 * [Hyperledger](https://www.hyperledger.org/)
