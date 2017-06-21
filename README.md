@@ -177,14 +177,15 @@ List of content:
 # Other Resources
 
 ### Articles
-* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa)
-* [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060)
-* [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135)
-* [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale)
-* [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/)
-* [Trick or Treat? Investment in Blockchain Cryptoassets](https://blog.coinfund.io/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c)
-* [Exploring Continuous Token Models: Towards a Million Networks of Value.](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776)
-* [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75)
+* [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
+* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
+* [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
+* [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
+* [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale) - Scanate
+* [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/) - StartupManagement
+* [Trick or Treat? Investment in Blockchain Cryptoassets](https://blog.coinfund.io/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c) - CoinFund
+* [Exploring Continuous Token Models: Towards a Million Networks of Value.](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) - Consensys
+* [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75) - Coinfund
 
 ### Videos
 * [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
