@@ -25,6 +25,7 @@ List of content:
   * [Libraries](#libraries)
 * Other Resources
   * [Whitepaper Examples](#whitepaper-examples)
+  * [Community Organizations](#community-organizations)
   * [Articles](#articles)
 
 ---
@@ -128,5 +129,8 @@ List of content:
 ### Whitepaper Examples
 * [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
 * [Status](https://status.im/whitepaper.pdf)
+
+### Community Organizations
+* [Hyperledger](https://www.hyperledger.org/)
 
 ### Articles
