@@ -59,6 +59,7 @@ List of content:
 
 ### Development
 * [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
+* [LightCurve](http://www.lightcurve.io/) - Blockchain-based software solutions for corporations of any kind. - (Lisk)
 
 ### Token Audit
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
