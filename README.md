@@ -125,6 +125,7 @@ List of content:
 
 ### Listings
 * [Smith & Crown](https://www.smithandcrown.com)
+* [ICO Bazaar](https://icobazaar.com/)
 * [ICO Rating](http://icorating.com/)
 * [TokenMarket](https://tokenmarket.net/)
 * [ICO Crypto Reddit](https://www.reddit.com/r/icocrypto/)
