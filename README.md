@@ -76,6 +76,8 @@ List of content:
 # Marketing
 
 ### Listings
+* [Smith & Crown](https://www.smithandcrown.com)
+* [CryptoCompare](https://www.cryptocompare.com/)
 * [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
 * [TokenMarket](https://tokenmarket.net/)
 
@@ -104,6 +106,7 @@ List of content:
   * [CoinJournal](https://coinjournal.net/)
   * [CoinReport](https://coinreport.net/)
   * [BlockchainNews](http://www.the-blockchain.com/)
+  * [CoinSpeaker](http://www.coinspeaker.com/)
 * General
   * [Forbes](https://www.forbes.com)
   * [TechCrunch](https://techcrunch.com/)
