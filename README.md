@@ -152,6 +152,8 @@ List of content:
 ### Advertisements
 * [CoinMarketCap](https://coinmarketcap.com/)
 * [CoinFox](http://www.coinfox.info/)
+* [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
+* [CoinGecko](https://www.coingecko.com/en)
 
 ### Forums
 * [BitcoinTalk](https://bitcointalk.org)
