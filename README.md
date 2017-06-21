@@ -9,7 +9,7 @@ List of content:
   * [Legal](#legal)
   * [Financial](#financial)
   * [Banking](#banking)
-  * [Accelerators](#accelerators)
+  * [Accelerator](#accelerator)
   * [Investment](#investment)
   * [Development](#development)
   * [PR](#pr)
@@ -65,7 +65,7 @@ List of content:
 ### Banking
 
 
-### Accelerators
+### Accelerator
 * [Boost VC](https://www.boost.vc/)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
 * [Starta ICO](https://startaico.com/)
