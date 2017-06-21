@@ -42,12 +42,11 @@ List of content:
 * [Ambisafe](https://www.ambisafe.co/services/) - Offer various services around token sales - (TAAS)
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
 
-
 ### Legal
 * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - Switzerland - (Ethereum)
 * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - International - (Civic)
 * [Cooley](https://www.cooley.com/) - Has helped multiple token sales, funds, and exchanges - Primarily US / International
-* [NovakRutar](http://www.novakrutar.si/en/) - Signapore - (Aragon)
+* [NovakRutar](http://www.novakrutar.si/en/) - Slovania - (Aragon, Cofoundit)
 
 ### Financial
 * [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
