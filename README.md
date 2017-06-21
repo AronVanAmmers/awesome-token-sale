@@ -49,10 +49,13 @@ List of content:
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
 
 ### Legal
-* [MME](http://www.mme.ch/) - One of the first firms to offer token sales - Switzerland - (Ethereum)
-* [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - International - (Civic)
-* [Cooley](https://www.cooley.com/) - Has helped multiple token sales, funds, and exchanges - Primarily US / International
-* [NovakRutar](http://www.novakrutar.si/en/) - Slovania - (Aragon, Cofoundit)
+* Switzerland
+  * [MME](http://www.mme.ch/) - One of the first firms to offer token sales - (Ethereum)
+* US / International
+  * [Perkins Coie](https://www.perkinscoie.com/en/index.html) - Have helped with mutliple token sales - (Civic)
+  * [Cooley](https://www.cooley.com/) - Has helped multiple token sales, funds, and exchanges
+* Slovania
+  * [NovakRutar](http://www.novakrutar.si/en/) - (Aragon, Cofoundit)
 
 ### Financial
 * [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
@@ -128,7 +131,6 @@ List of content:
 * [ICO Timeline](https://icotimeline.com/)
 * [ICO Tracker](https://icotracker.net/)
 
-
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
 * [Lets Talk Bitcoin](https://letstalkbitcoin.com/)
@@ -189,6 +191,10 @@ List of content:
 
 ### Token Examples
 * [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
+
+# Cryptoeconomics
+* [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+* [Antifragile Cryptoeconomi Systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128)
 
 # Whitepapers
 
