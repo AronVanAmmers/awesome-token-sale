@@ -189,6 +189,7 @@ List of content:
 
 ### Articles
 * [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
+* [What Initial Coin Offerings Are, and Why VC Firms Care](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care) - Harvard Business Review
 * [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
 * [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
 * [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
