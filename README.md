@@ -174,6 +174,10 @@ List of content:
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
 * [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
 * [Devcon](https://ethereumfoundation.org/devcon3/) - Devcon (Ethereum Foundation) - Cancun, MX
+* [EDCON](https://edcon.io/) - European Ethereum Development Conference - Paris, France
+
+### Meetups
+* [London Ethereum Meetup](https://www.meetup.com/ethereum/)
 
 ### Community Organizations
 * [Hyperledger](https://www.hyperledger.org/)
