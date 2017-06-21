@@ -84,6 +84,7 @@ List of content:
 * [Lets Talk Bitcoin](https://letstalkbitcoin.com/)
 * [Unchained](https://itunes.apple.com/us/podcast/unchained-big-ideas-from-worlds-blockchain-cryptocurrency/id1123922160?mt=2&i=1000384504169)
 * [Blockchain Innovations](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
+* [Epicenter](https://www.youtube.com/channel/UCh-0T48JrvvmKDX41aWB_Vg)
 
 ### Advertise
 * [CoinMarketCap](https://coinmarketcap.com/)
@@ -106,6 +107,7 @@ List of content:
   * [BlockchainNews](http://www.the-blockchain.com/)
   * [CoinSpeaker](http://www.coinspeaker.com/)
 * General
+  * [Rueters](http://www.reuters.com/)
   * [Forbes](https://www.forbes.com)
   * [TechCrunch](https://techcrunch.com/)
   * [Yahoo Finance](https://finance.yahoo.com/)
