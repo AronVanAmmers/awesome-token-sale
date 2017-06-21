@@ -218,7 +218,6 @@ List of content:
 ### Resources
 * [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
 * [Investment Guide To 'Crypto' Coin Offerings Rating Blockchain Startups](https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3079dc8e121b)
-* 
 
 # Other Resources
 
