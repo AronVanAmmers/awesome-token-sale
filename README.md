@@ -106,6 +106,10 @@ List of content:
 * [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
 * [BitLegal Map](http://map.bitlegal.io/)
 
+### Videos
+* [Law & Ethereum Panel Discussion - Ethereum London Meetup](https://www.youtube.com/watch?v=PDVtE3W5fPE)
+* [Is Grey the New Normal in Legal & Compliance?](https://www.youtube.com/watch?v=IFYzOdxYGzo&t=894s)
+
 # Financial Regulatory
 
 ### Resources
