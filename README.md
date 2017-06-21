@@ -10,7 +10,6 @@ List of content:
   * [Financial](#financial)
   * [Investment](#investment)
   * [Development](#development)
-  * [Token Audit](#token-audit)
   * [PR](#pr)
 * Legal
   * [Structures](#structures)
@@ -60,10 +59,9 @@ List of content:
 
 ### Development
 * [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
-* [LightCurve](http://www.lightcurve.io/) - Blockchain-based software solutions for corporations of any kind. - (Lisk)
-
-### Token Audit
+* [EtherionLab](https://etherionlab.com/) - Smart contract development - (Humaniq)
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
+* [LightCurve](http://www.lightcurve.io/) - Blockchain-based software solutions for corporations of any kind. - (Lisk)
 
 ### PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
