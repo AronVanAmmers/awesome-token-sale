@@ -8,7 +8,8 @@ List of content:
   * [Advisory](#advisory)  
   * [Legal](#legal)
   * [Financial](#financial)
-  * [Accelorators](#accelorators)
+  * [Banking](#banking)
+  * [Accelerators](#accelerators)
   * [Investment](#investment)
   * [Development](#development)
   * [PR](#pr)
@@ -61,7 +62,10 @@ List of content:
 * [Bitcoin Suisse AG](https://www.bitcoinsuisse.ch/ico/) - Financial services - Switzerland - (Status, Ethereum, Tezos)
 * [Ambisafe](https://www.ambisafe.co/services/) - Offer various services around token sales - (TAAS)
 
-### Accelorators
+### Banking
+
+
+### Accelerators
 * [Boost VC](https://www.boost.vc/)
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
 * [Starta ICO](https://startaico.com/)
