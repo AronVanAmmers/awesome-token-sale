@@ -21,11 +21,13 @@ List of content:
   * [Chats](#chats)
   * [Press](#press)
   * [Conferences](#conferences)
+  * [Community Organizations](#community-organizations)
 * Smart Contracts
   * [Libraries](#libraries)
+  * [Token Examples](#token-examples)
+* Whitepapers
+  * [Examples](#examples)
 * Other Resources
-  * [Whitepaper Examples](#whitepaper-examples)
-  * [Community Organizations](#community-organizations)
   * [Articles](#articles)
   * [Videos](#videos)
 
@@ -124,20 +126,24 @@ List of content:
 * [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
 * [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
 
+### Community Organizations
+* [Hyperledger](https://www.hyperledger.org/)
+
 # Smart Contracts
 
-## Libraries
+### Libraries
 * [OpenZeppelin](https://openzeppelin.org/) - An open framework of reusable and secure smart contracts in the Solidity language.
 * [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
-# Other Resources
+### Token Examples
 
-### Whitepaper Examples
+# Whitepapers
+
+### Examples
 * [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
 * [Status](https://status.im/whitepaper.pdf)
 
-### Community Organizations
-* [Hyperledger](https://www.hyperledger.org/)
+# Other Resources
 
 ### Articles
 
