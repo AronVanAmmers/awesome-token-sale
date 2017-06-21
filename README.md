@@ -100,13 +100,20 @@ List of content:
 
 ### Listings
 * [Smith & Crown](https://www.smithandcrown.com)
-* [Token Sale Calendar](http://www.tokensalecalendar.com/) - Evan Van Ness' token sale calendar
-* [CryptoCompare](https://www.cryptocompare.com/)
-* [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
+* [ICO Rating](http://icorating.com/)
 * [TokenMarket](https://tokenmarket.net/)
+* [CryptoCompare](https://www.cryptocompare.com/)
+* [ICO Countdown](http://www.icocountdown.com/)
+* [ICO List](https://www.ico-list.com/)
+* [CoinList](https://coinlist.co/) - Partnership beween AngelList and Protocol Labs
 * [ICO Calendar](https://github.com/Scanate/UltimateICOCalendar)
 * [Token Investor](https://tokeninvestor.com/)
+* [Token Sale Calendar](http://www.tokensalecalendar.com/) - Evan Van Ness' token sale calendar
 * [imToken ICO Dapp](https://ico.token.im/)
+* [CoinSchedule](https://www.coinschedule.com/)
+* [CyberFund](https://cyber.fund/)
+* [ICO Timeline](https://icotimeline.com/)
+* [ICO Tracker](https://icotracker.net/)
 
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
@@ -139,6 +146,8 @@ List of content:
   * [CoinFox](http://www.coinfox.info/)
   * [CoinIdol](https://coinidol.com/)
   * [TheMerkle](https://themerkle.com/)
+  * [CryptoSmile](http://www.cryptosmile.com/)
+  * [Newbium](https://coins.newbium.com/)
 * General
   * [Rueters](http://www.reuters.com/)
   * [Forbes](https://www.forbes.com)
