@@ -98,18 +98,25 @@ List of content:
 
 
 ### Accelerator
-* [Boost VC](https://www.boost.vc/)
+* [Boost VC](https://www.boost.vc/) - A family of founders making Sci-Fi a Reality.
 * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
 * [Starta ICO](https://startaico.com/)
 
 ### Investment
-* [Blockchain Capital](http://blockchain.capital/)
-* [Digital Currency Group](http://dcg.co/)
-* [Polychain Capital](http://polychain.capital/) - US based hedge fund by Olaf Carlson-Wee
-* [CoinFund](https://coinfund.io/) - US based private investment vehicle
-* [NewAlchemy](https://newalchemy.io/investment)
-* [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
-* [Union Square Ventures](https://www.usv.com/)
+* Institutional
+  * [Digital Currency Group](http://dcg.co/) - Digital Currency Group is an venture capital company focusing on the digital currency market. It is located in New York City.
+  * [Winklevoss Capital](https://winklevosscapital.com/) - Winklevoss Capital is a family office founded in 2012 by Tyler Winklevoss and Cameron Winklevoss. The firm invests across many asset classes with an emphasis on providing seed funding and infrastructure to early-stage startups.
+  * [Blockchain Capital](http://blockchain.capital/) - Blockchain Capital is a venture capital company that invests in blockchain related companies. It is headquartered in San Francisco, California.
+  * [DFJ](http://dfj.com/) - Draper Fisher Jurvetson is a California-based venture capital firm that funds companies in seed, early, and growth stages.
+  * [Union Square Ventures](https://www.usv.com/) - Thesis-driven venture capital firm. It invest in networks, infrastructure for the new economy, and enablers of open, decentralized data.
+  * [Andreessen Horowitz](http://a16z.com/) - Andreessen Horowitz backs bold entrepreneurs who move fast, think big, and are committed to building the next major franchises in technology.
+  * [Pantera](https://panteracapital.com/) - Pantera Capital is an investment firm focused exclusively on ventures related to blockchain tech and digital currency.
+  * [BlueYard](http://blueyard.com/) - BlueYard invests in founders with transforming ideas that decentralise markets, empower users and liberate data.
+  * [NewAlchemy](https://newalchemy.io/investment)
+  * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
+* Hedge Funds
+  * [Polychain Capital](http://polychain.capital/) - US based hedge fund by Olaf Carlson-Wee
+  * [CoinFund](https://coinfund.io/) - US based private investment vehicle
 
 ### Development
 * [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
@@ -158,6 +165,7 @@ List of content:
 * [ICO Bazaar](https://icobazaar.com/)
 * [ICO Rating](http://icorating.com/)
 * [TokenMarket](https://tokenmarket.net/)
+* [ICO Alert](https://www.icoalert.com/) 
 * [ICO Crypto Reddit](https://www.reddit.com/r/icocrypto/)
 * [CryptoCompare](https://www.cryptocompare.com/)
 * [ICO Countdown](http://www.icocountdown.com/)
