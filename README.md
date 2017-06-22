@@ -12,7 +12,6 @@ List of content:
   * [Legal](#legal)
   * [Financial](#financial)
   * [Banking](#banking)
-  * [Accelerator](#accelerator)
   * [Investment](#investment)
   * [Development](#development)
   * [PR](#pr)
@@ -96,14 +95,12 @@ List of content:
 
 ### Banking
 
-
-### Accelerator
-* [Boost VC](https://www.boost.vc/) - A family of founders making Sci-Fi a Reality.
-* [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
-* [Starta ICO](https://startaico.com/)
-
 ### Investment
-* Institutional
+#### Accelerator
+  * [Boost VC](https://www.boost.vc/) - A family of founders making Sci-Fi a Reality.
+  * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
+  * [Starta ICO](https://startaico.com/)
+#### Institutional
   * [Digital Currency Group](http://dcg.co/) - Digital Currency Group is an venture capital company focusing on the digital currency market. It is located in New York City.
   * [Winklevoss Capital](https://winklevosscapital.com/) - Winklevoss Capital is a family office founded in 2012 by Tyler Winklevoss and Cameron Winklevoss. The firm invests across many asset classes with an emphasis on providing seed funding and infrastructure to early-stage startups.
   * [Blockchain Capital](http://blockchain.capital/) - Blockchain Capital is a venture capital company that invests in blockchain related companies. It is headquartered in San Francisco, California.
@@ -114,7 +111,7 @@ List of content:
   * [BlueYard](http://blueyard.com/) - BlueYard invests in founders with transforming ideas that decentralise markets, empower users and liberate data.
   * [NewAlchemy](https://newalchemy.io/investment)
   * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
-* Hedge Funds
+#### Hedge Funds
   * [Polychain Capital](http://polychain.capital/) - US based hedge fund by Olaf Carlson-Wee
   * [CoinFund](https://coinfund.io/) - US based private investment vehicle
 
