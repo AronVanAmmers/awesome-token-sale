@@ -76,6 +76,8 @@ List of content:
 #### Guides
 * [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
 * [How Civic Sold $33 Million Dollars in Tokens with Zero Marketing](https://medium.com/@TammyCamp/how-civic-sold-33-million-dollars-in-tokens-with-zero-marketing-c91610a4f2c8)
+* [Handling Crowdsale Funds Securely](https://medium.com/zeppelin-blog/handling-crowdsale-funds-securely-c348467da74c)
+* [The 4 Stages of a Token Sale](https://medium.com/zeppelin-blog/the-4-stages-of-a-token-sale-cc88fbe1717a)
 
 #### Cryptoeconomics
 * [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
