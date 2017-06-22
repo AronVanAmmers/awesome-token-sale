@@ -37,6 +37,7 @@ List of content:
   * [Forums](#forums)
   * [Chats](#chats)
   * [Conferences](#conferences)
+  * [Meetups](#meetups)
   * [Community Organizations](#community-organizations)
 * Marketing
   * [Listings](#listings)
