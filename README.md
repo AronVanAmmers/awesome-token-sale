@@ -25,10 +25,10 @@ List of content:
 * Marketing Resources
   * [Listings](#listings)
   * [Podcasts](#podcasts)
+  * [Press](#press)
   * [Advertisements](#advertisements)
   * [Forums](#forums)
   * [Chats](#chats)
-  * [Press](#press)
   * [Conferences](#conferences)
   * [Community Organizations](#community-organizations)
 * Smart Contract Resources
@@ -112,8 +112,14 @@ List of content:
   * [NewAlchemy](https://newalchemy.io/investment)
   * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
 #### Hedge Funds
-  * [Polychain Capital](http://polychain.capital/) - US based hedge fund by Olaf Carlson-Wee
-  * [CoinFund](https://coinfund.io/) - US based private investment vehicle
+  * [Polychain Capital](http://polychain.capital/) - (US) Polychain Capital manages a hedge fund committed to exceptional returns for investors through an actively managed portfolio of these blockchain assets.
+  * BKCM - (US) BKCM LLC is a global investment management firm specializing in Global Macro and Currency investing.
+  * [The Token Fund](https://thetoken.io/) - (RU) The Token Fund provides an opportunity for investors looking for the simplest way to get into the decentralised economy.
+  * [MetaStable](http://metastablecapital.com/) - (US) Founded by Lucas Ryan, Joshua Seims and Naval Ravikant. It offers a concentrated portfolio of crypto assets that have the strongest chance of emerging as long-term winners across a wide basket of use cases (store of value, smart contracts, stable coin, prediction markets, anonymity, storage, new approaches to governance and consensus, etc.).
+  * [Exagon Fund](http://exagonfund.com/) - (US) Exagon’s vision is to create investment strategies that provide potentially high-yielding, uncorrelated returns in a world of low-yielding, correlated assets.
+  * [Solidus Capital](http://www.soliduscapital.io/) - (MX) We are a Hedge Fund specialized in Cryptocurrencies Investments focused in Latam’s Family Offices, VC and High Net Worth Individuals as investors.
+  * [GABI](http://www.globaladvisors.co.uk/) - (UK/JERSEY) Global Advisors (Jersey) Limited has created the first institutional-grade Bitcoin investment strategy (“GABI”).
+  * [CoinFund](https://coinfund.io/) - (US) A blockchain technology research company and proprietary cryptoasset investment vehicle.
 
 ### Development
 * [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
