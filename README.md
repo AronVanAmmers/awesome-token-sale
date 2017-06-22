@@ -28,20 +28,21 @@ List of content:
   * [Legal Videos](#legal-videos)
   * [Regulatory Resources](#regulatory-resources)
   * [Regulatory Articles](#regulatory-articles)
+* Whitepapers
+  * [Examples](#examples)
+* Smart Contract Resources
+  * [Libraries](#libraries)
+  * [Token Examples](#token-examples)
+* Community Resources
+  * [Forums](#forums)
+  * [Chats](#chats)
+  * [Conferences](#conferences)
+  * [Community Organizations](#community-organizations)
 * Marketing Resources
   * [Listings](#listings)
   * [Podcasts](#podcasts)
   * [Press](#press)
   * [Advertisements](#advertisements)
-  * [Forums](#forums)
-  * [Chats](#chats)
-  * [Conferences](#conferences)
-  * [Community Organizations](#community-organizations)
-* Smart Contract Resources
-  * [Libraries](#libraries)
-  * [Token Examples](#token-examples)
-* Whitepapers
-  * [Examples](#examples)
 
 ---
 
@@ -173,6 +174,42 @@ List of content:
 ### Regulatory Articles
 * [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
 
+# Whitepapers
+
+### Examples
+* [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
+* [Status](https://status.im/whitepaper.pdf)
+
+# Smart Contracts
+
+### Libraries
+* [OpenZeppelin](https://openzeppelin.org/) - An open framework of reusable and secure smart contracts in the Solidity language.
+
+### Token Examples
+* [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
+
+# Community Resources
+
+### Forums
+* [BitcoinTalk](https://bitcointalk.org)
+* [CryptocurrencyTalk](https://cryptocurrencytalk.com)
+
+### Chats
+* [CoinFund Slack - #crowdsales](https://coinfund.io/)
+* [Cryptopia Slack - #ico-analysis](https://cryptocopia.herokuapp.com/)
+
+### Conferences
+* [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
+* [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
+* [Devcon](https://ethereumfoundation.org/devcon3/) - Devcon (Ethereum Foundation) - Cancun, MX
+* [EDCON](https://edcon.io/) - European Ethereum Development Conference - Paris, France
+
+### Meetups
+* [Ethereum Meetups](https://www.meetup.com/topics/ethereum/all/)
+
+### Community Organizations
+* [Hyperledger](https://www.hyperledger.org/)
+
 # Marketing Resources
 
 ### Listings
@@ -202,20 +239,6 @@ List of content:
 * [Blockchain Innovations](https://itunes.apple.com/us/podcast/blockchain-innovation-interviewing-brightest-minds/id1238906492?mt=2)
 * [Epicenter](https://www.youtube.com/channel/UCh-0T48JrvvmKDX41aWB_Vg)
 
-### Advertisements
-* [CoinMarketCap](https://coinmarketcap.com/)
-* [CoinFox](http://www.coinfox.info/)
-* [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
-* [CoinGecko](https://www.coingecko.com/en)
-
-### Forums
-* [BitcoinTalk](https://bitcointalk.org)
-* [CryptocurrencyTalk](https://cryptocurrencytalk.com)
-
-### Chats
-* [CoinFund Slack - #crowdsales](https://coinfund.io/)
-* [Cryptopia Slack - #ico-analysis](https://cryptocopia.herokuapp.com/)
-
 ### Press
 * Cryptocurrency
   * [Coindesk](http://www.coindesk.com/)
@@ -238,30 +261,8 @@ List of content:
   * [Product Hunt](https://www.producthunt.com/)
   * [Nasdaq](http://www.nasdaq.com/)
 
-### Conferences
-* [Token Summit](http://tokensummit.com/) - Conference on the emerging token-based economy - NYC, NY
-* [Consensus](http://www.coindesk.com/events/consensus-2017/) - Blockchain technology conference - NYC, NY
-* [Devcon](https://ethereumfoundation.org/devcon3/) - Devcon (Ethereum Foundation) - Cancun, MX
-* [EDCON](https://edcon.io/) - European Ethereum Development Conference - Paris, France
-
-### Meetups
-* [Ethereum Meetups](https://www.meetup.com/topics/ethereum/all/)
-
-### Community Organizations
-* [Hyperledger](https://www.hyperledger.org/)
-
-# Smart Contracts
-
-### Libraries
-* [OpenZeppelin](https://openzeppelin.org/) - An open framework of reusable and secure smart contracts in the Solidity language.
-
-### Token Examples
-* [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
-
-# Whitepapers
-
-### Examples
-* [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
-* [Status](https://status.im/whitepaper.pdf)
-
-
+### Advertisements
+* [CoinMarketCap](https://coinmarketcap.com/)
+* [CoinFox](http://www.coinfox.info/)
+* [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
+* [CoinGecko](https://www.coingecko.com/en)
