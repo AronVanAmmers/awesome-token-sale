@@ -52,7 +52,6 @@ List of content:
 ### Articles
 * [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
 * [What Initial Coin Offerings Are, and Why VC Firms Care](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care) - Harvard Business Review
-* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
 * [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
 * [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
 * [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale) - Scanate
@@ -64,7 +63,6 @@ List of content:
 * [How to Successfully Raise Millions in an Initial Coin Offering](http://www.financemagnates.com/cryptocurrency/interview/how-to-successfully-raise-millions-in-an-initial-coin-offerings-ico/)
 * [Initial Coin Offering: Crowdfunding of Blockchain Ecosystem](https://slovakstartup.com/2016/12/22/ico-crowdfunding-blockchain/)
 * [The dawning of the age of the ICOs](https://blog.wavesplatform.com/the-dawning-of-the-age-of-the-icos-9303312a805d)
-* [How Not To Be Scammed By An ICO](https://blockgeeks.com/how-not-to-be-scammed-by-a-initial-coin-offering/)
 * [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
 * [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
 * [Everything you need to know about blockchain ICOs](https://decentralize.today/everything-you-need-to-know-about-blockchain-icos-46a3eac39dc3)
@@ -75,6 +73,10 @@ List of content:
 * [Making Blockchain Real for Enterprises: The Importance of Tokenization](http://www.coindesk.com/making-blockchain-real-enterprises-importance-tokenization/)
 * [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
 
+#### Guides
+* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
+* [How Civic Sold $33 Million Dollars in Tokens with Zero Marketing](https://medium.com/@TammyCamp/how-civic-sold-33-million-dollars-in-tokens-with-zero-marketing-c91610a4f2c8)
+
 #### Cryptoeconomics
 * [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 * [Antifragile Cryptoeconomi Systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128)
@@ -83,6 +85,7 @@ List of content:
 * [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
 * [Investment Guide To 'Crypto' Coin Offerings Rating Blockchain Startups](https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3079dc8e121b)
 * [4 Criteria For Evaluating Blockchain ICOs](http://www.coindesk.com/evaluate-blockchain-initial-cryptocurrency-offering/)
+* [How Not To Be Scammed By An ICO](https://blockgeeks.com/how-not-to-be-scammed-by-a-initial-coin-offering/)
 
 ### Videos
 * [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
