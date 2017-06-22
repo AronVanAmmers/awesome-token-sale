@@ -7,7 +7,7 @@ List of content:
 * Introductory Resources
   * [Articles](#articles)
   * [Videos](#videos)
-* Services
+* Related Services
   * [Advisory](#advisory)  
   * [Legal](#legal)
   * [Financial](#financial)
@@ -18,12 +18,12 @@ List of content:
   * [PR](#pr)
   * [Business](#business)
 * Legal / Regulatory Resources
-  * [Structures](#structures)
+  * [Legal Structures](#legal-structures)
   * [Legal Resources](#legal-resources)
   * [Legal Videos](#legal-videos)
   * [Regulatory Resources](#regulatory-resources)
   * [Regulatory Articles](#regulatory-articles)
-* Marketing
+* Marketing Resources
   * [Listings](#listings)
   * [Podcasts](#podcasts)
   * [Advertisements](#advertisements)
@@ -32,12 +32,12 @@ List of content:
   * [Press](#press)
   * [Conferences](#conferences)
   * [Community Organizations](#community-organizations)
-* Smart Contracts
+* Smart Contract Resources
   * [Libraries](#libraries)
   * [Token Examples](#token-examples)
 * Whitepapers
   * [Examples](#examples)
-* Investment
+* Investment Resources
   * [Resources](#resources)
 
 ---
@@ -74,7 +74,7 @@ List of content:
 ### Videos
 * [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
 
-# Services
+# Related Services
 
 ### Advisory
 * [Argon Group](https://argongroup.com/) - Full service token sale advisory - (Blockchain Cap, Civic)
@@ -151,7 +151,7 @@ List of content:
 ### Regulatory Articles
 * [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
 
-# Marketing
+# Marketing Resources
 
 ### Listings
 * [Smith & Crown](https://www.smithandcrown.com)
