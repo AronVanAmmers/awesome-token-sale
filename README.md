@@ -7,7 +7,7 @@
 
 *If you enjoy this list please contribute and share. We are also working on a list for once the token sale has completed and to help navigate running a decentralized organization: [Awesome Decentralized Organization](https://github.com/holographicio/awesome-decentralized-organization)*
 
-* We've also started an open spreadsheet of token sale data to help seeing how others are performing their sales. [Open Token Sale Data](https://docs.google.com/spreadsheets/d/1aFXNx6DtaagywoJTjsiHokU1ZKxWdYO4YtCTawwzxqU/edit#gid=0)
+*We've also started an open spreadsheet of token sale data to help seeing how others are performing their sales. [Open Token Sale Data](https://docs.google.com/spreadsheets/d/1aFXNx6DtaagywoJTjsiHokU1ZKxWdYO4YtCTawwzxqU/edit#gid=0)*
 
 ---
 
