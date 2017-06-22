@@ -125,7 +125,7 @@ List of content:
 
 # Legal / Regulatory Resources
 
-### Structures
+### Legal Structures
 #### Investment Structures
 * [SAFT](https://coinlist.co/about/help/saft)
 #### Organizational Structures
