@@ -10,7 +10,7 @@
 ---
 
 List of content:
-* Introductory Resources
+* Introduction
   * [Articles](#articles)
   * [Videos](#videos)
 * Related Services
@@ -22,7 +22,7 @@ List of content:
   * [Development](#development)
   * [PR](#pr)
   * [Business](#business)
-* Legal / Regulatory Resources
+* Legal / Regulatory 
   * [Legal Structures](#legal-structures)
   * [Legal Resources](#legal-resources)
   * [Legal Videos](#legal-videos)
@@ -30,15 +30,15 @@ List of content:
   * [Regulatory Articles](#regulatory-articles)
 * Whitepapers
   * [Examples](#examples)
-* Smart Contract Resources
+* Smart Contracts
   * [Libraries](#libraries)
   * [Token Examples](#token-examples)
-* Community Resources
+* Community
   * [Forums](#forums)
   * [Chats](#chats)
   * [Conferences](#conferences)
   * [Community Organizations](#community-organizations)
-* Marketing Resources
+* Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
   * [Press](#press)
@@ -46,7 +46,7 @@ List of content:
 
 ---
 
-# Introductory Resources
+# Introduction
 
 ### Articles
 * [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
@@ -146,7 +146,7 @@ List of content:
 ### Business
 * [Deloitte](https://www2.deloitte.com/nl/nl/pages/risk/solutions/blockchain.html)
 
-# Legal / Regulatory Resources
+# Legal / Regulatory
 
 ### Legal Structures
 #### Investment Structures
@@ -188,7 +188,7 @@ List of content:
 ### Token Examples
 * [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
-# Community Resources
+# Community
 
 ### Forums
 * [BitcoinTalk](https://bitcointalk.org)
@@ -210,7 +210,7 @@ List of content:
 ### Community Organizations
 * [Hyperledger](https://www.hyperledger.org/)
 
-# Marketing Resources
+# Marketing
 
 ### Listings
 * [Smith & Crown](https://www.smithandcrown.com)
