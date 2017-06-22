@@ -207,6 +207,8 @@ List of content:
 
 ### Meetups
 * [Ethereum Meetups](https://www.meetup.com/topics/ethereum/all/)
+* [Bitcoin Meetups](https://www.meetup.com/topics/bitcoin/all/)
+* [Blockchain Meetups](https://www.meetup.com/topics/blockchain/all/)
 
 ### Community Organizations
 * [Hyperledger](https://www.hyperledger.org/)
@@ -267,3 +269,7 @@ List of content:
 * [CoinFox](http://www.coinfox.info/)
 * [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
 * [CoinGecko](https://www.coingecko.com/en)
+
+---
+
+`ICO Guides` `Token Sale Guides` `Initial Coin Offering Guides` `Initial Coin Offering Resources` `ICO Services` `Token Sale Services`
