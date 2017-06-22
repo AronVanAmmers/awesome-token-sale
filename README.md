@@ -4,6 +4,9 @@
 ---
 
 List of content:
+* Introductory Resources
+  * [Articles](#articles)
+  * [Videos](#videos)
 * Services
   * [Advisory](#advisory)  
   * [Legal](#legal)
@@ -14,12 +17,12 @@ List of content:
   * [Development](#development)
   * [PR](#pr)
   * [Business](#business)
-* Legal
+* Legal / Regulatory Resources
   * [Structures](#structures)
-  * [Resources](#resources)
-* Financial Regulatory
-  * [Resources](#resources)
-  * [Articles](#articles)
+  * [Legal Resources](#legal-resources)
+  * [Legal Videos](#legal-videos)
+  * [Regulatory Resources](#regulatory-resources)
+  * [Regulatory Articles](#regulatory-articles)
 * Marketing
   * [Listings](#listings)
   * [Podcasts](#podcasts)
@@ -36,11 +39,40 @@ List of content:
   * [Examples](#examples)
 * Investment
   * [Resources](#resources)
-* Other Resources
-  * [Articles](#articles)
-  * [Videos](#videos)
 
 ---
+
+# Introductory Resources
+
+### Articles
+* [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
+* [What Initial Coin Offerings Are, and Why VC Firms Care](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care) - Harvard Business Review
+* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
+* [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
+* [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
+* [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale) - Scanate
+* [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](https://medium.com/@wmougayar/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-67636e8ab0fd) - StartupManagement
+* [Trick or Treat? Investment in Blockchain Cryptoassets](https://blog.coinfund.io/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c) - CoinFund
+* [Exploring Continuous Token Models: Towards a Million Networks of Value.](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) - Consensys
+* [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75) - Coinfund
+* [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+* [How to Successfully Raise Millions in an Initial Coin Offering](http://www.financemagnates.com/cryptocurrency/interview/how-to-successfully-raise-millions-in-an-initial-coin-offerings-ico/)
+* [Initial Coin Offering: Crowdfunding of Blockchain Ecosystem](https://slovakstartup.com/2016/12/22/ico-crowdfunding-blockchain/)
+* [The dawning of the age of the ICOs](https://blog.wavesplatform.com/the-dawning-of-the-age-of-the-icos-9303312a805d)
+* [How Not To Be Scammed By An ICO](https://blockgeeks.com/how-not-to-be-scammed-by-a-initial-coin-offering/)
+* [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
+* [4 Criteria For Evaluating Blockchain ICOs](http://www.coindesk.com/evaluate-blockchain-initial-cryptocurrency-offering/)
+* [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
+* [Everything you need to know about blockchain ICOs](https://decentralize.today/everything-you-need-to-know-about-blockchain-icos-46a3eac39dc3)
+* [Blockchain startups make up 20% of largest crowdfunding projects](https://venturebeat.com/2016/05/15/blockchain-startups-make-up-20-of-largest-crowdfunding-projects/)
+* [A gentle introduction to digital tokens](https://bitsonblocks.net/2015/09/28/a-gentle-introduction-to-digital-tokens/)
+* [Crypto Tokens and the Coming Age of Protocol Innovation](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol)
+* [The Bitcoin Model for Crowdfunding](https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/)
+* [Making Blockchain Real for Enterprises: The Importance of Tokenization](http://www.coindesk.com/making-blockchain-real-enterprises-importance-tokenization/)
+* [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+
+### Videos
+* [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
 
 # Services
 
@@ -91,7 +123,7 @@ List of content:
 ### Business
 * [Deloitte](https://www2.deloitte.com/nl/nl/pages/risk/solutions/blockchain.html)
 
-# Legal
+# Legal / Regulatory Resources
 
 ### Structures
 #### Investment Structures
@@ -99,7 +131,7 @@ List of content:
 #### Organizational Structures
 * [Stiftung](https://www.wikiwand.com/en/Stiftung)
 
-### Resources
+### Legal Resources
 * [Introducing the Blockchain Token Securities Law Framework](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f)
 * [A Securities Law Framework for Blockchain Tokens](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0)
 * [Legality of bitcoin by country or territory](https://www.wikiwand.com/en/Legality_of_bitcoin_by_country_or_territory)
@@ -107,18 +139,16 @@ List of content:
 * [BitLegal Map](http://map.bitlegal.io/)
 * [Appcoin Law: ICOs the Right Way](http://www.coindesk.com/appcoin-law-part-1-icos-the-right-way/)
 
-### Videos
+### Legal Videos
 * [Law & Ethereum Panel Discussion - Ethereum London Meetup](https://www.youtube.com/watch?v=PDVtE3W5fPE)
 * [Is Grey the New Normal in Legal & Compliance?](https://www.youtube.com/watch?v=IFYzOdxYGzo&t=894s)
 
-# Financial Regulatory
-
-### Resources
+### Regulatory Resources
 * [IRS Virtual Currency Guidance](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance) - IRC
 * [Ponzi schemes Using virtual Currencies](https://www.sec.gov/investor/alerts/ia_virtualcurrencies.pdf) - SEC
 * [Regulating ICOs: Striking a Balance in 2017](http://www.coindesk.com/regulating-ico-strike-balance-2017-deloitte/)
 
-### Articles
+### Regulatory Articles
 * [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
 
 # Marketing
@@ -220,36 +250,3 @@ List of content:
 ### Resources
 * [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
 * [Investment Guide To 'Crypto' Coin Offerings Rating Blockchain Startups](https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3079dc8e121b)
-
-# Other Resources
-
-### Articles
-* [WTF is an ICO?](https://techcrunch.com/2017/05/23/wtf-is-an-ico/) - TechCrunch
-* [What Initial Coin Offerings Are, and Why VC Firms Care](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care) - Harvard Business Review
-* [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa) - GDAX
-* [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
-* [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
-* [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale) - Scanate
-* [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](https://medium.com/@wmougayar/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-67636e8ab0fd) - StartupManagement
-* [Trick or Treat? Investment in Blockchain Cryptoassets](https://blog.coinfund.io/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c) - CoinFund
-* [Exploring Continuous Token Models: Towards a Million Networks of Value.](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) - Consensys
-* [Blockchain investments and the new problem asset for conventional VCs](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75) - Coinfund
-* [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
-* [How to Successfully Raise Millions in an Initial Coin Offering](http://www.financemagnates.com/cryptocurrency/interview/how-to-successfully-raise-millions-in-an-initial-coin-offerings-ico/)
-* [Initial Coin Offering: Crowdfunding of Blockchain Ecosystem](https://slovakstartup.com/2016/12/22/ico-crowdfunding-blockchain/)
-* [The dawning of the age of the ICOs](https://blog.wavesplatform.com/the-dawning-of-the-age-of-the-icos-9303312a805d)
-* [How Not To Be Scammed By An ICO](https://blockgeeks.com/how-not-to-be-scammed-by-a-initial-coin-offering/)
-* [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
-* [4 Criteria For Evaluating Blockchain ICOs](http://www.coindesk.com/evaluate-blockchain-initial-cryptocurrency-offering/)
-* [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
-* [Everything you need to know about blockchain ICOs](https://decentralize.today/everything-you-need-to-know-about-blockchain-icos-46a3eac39dc3)
-* [Blockchain startups make up 20% of largest crowdfunding projects](https://venturebeat.com/2016/05/15/blockchain-startups-make-up-20-of-largest-crowdfunding-projects/)
-* [A gentle introduction to digital tokens](https://bitsonblocks.net/2015/09/28/a-gentle-introduction-to-digital-tokens/)
-* [Crypto Tokens and the Coming Age of Protocol Innovation](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol)
-* [The Bitcoin Model for Crowdfunding](https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/)
-* [Making Blockchain Real for Enterprises: The Importance of Tokenization](http://www.coindesk.com/making-blockchain-real-enterprises-importance-tokenization/)
-* [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
-
-### Videos
-* [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
-
