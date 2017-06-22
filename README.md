@@ -42,8 +42,6 @@ List of content:
   * [Token Examples](#token-examples)
 * Whitepapers
   * [Examples](#examples)
-* Investment Resources
-  * [Resources](#resources)
 
 ---
 
@@ -66,7 +64,6 @@ List of content:
 * [The dawning of the age of the ICOs](https://blog.wavesplatform.com/the-dawning-of-the-age-of-the-icos-9303312a805d)
 * [How Not To Be Scammed By An ICO](https://blockgeeks.com/how-not-to-be-scammed-by-a-initial-coin-offering/)
 * [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
-* [4 Criteria For Evaluating Blockchain ICOs](http://www.coindesk.com/evaluate-blockchain-initial-cryptocurrency-offering/)
 * [ICO and the Emerging Decentralization of Crowdfunding](https://www.coingecko.com/buzz/ico-emerging-decentralization-crowdfunding?locale=en&ref=highlight)
 * [Everything you need to know about blockchain ICOs](https://decentralize.today/everything-you-need-to-know-about-blockchain-icos-46a3eac39dc3)
 * [Blockchain startups make up 20% of largest crowdfunding projects](https://venturebeat.com/2016/05/15/blockchain-startups-make-up-20-of-largest-crowdfunding-projects/)
@@ -75,6 +72,15 @@ List of content:
 * [The Bitcoin Model for Crowdfunding](https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/)
 * [Making Blockchain Real for Enterprises: The Importance of Tokenization](http://www.coindesk.com/making-blockchain-real-enterprises-importance-tokenization/)
 * [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+
+#### Cryptoeconomics
+* [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
+* [Antifragile Cryptoeconomi Systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128)
+
+#### Evaluation
+* [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
+* [Investment Guide To 'Crypto' Coin Offerings Rating Blockchain Startups](https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3079dc8e121b)
+* [4 Criteria For Evaluating Blockchain ICOs](http://www.coindesk.com/evaluate-blockchain-initial-cryptocurrency-offering/)
 
 ### Videos
 * [Token Summit Videos](https://www.youtube.com/channel/UClKay1eOR8D825wY5PBYFUA)
@@ -252,18 +258,10 @@ List of content:
 ### Token Examples
 * [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
-# Cryptoeconomics
-* [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
-* [Antifragile Cryptoeconomi Systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128)
-
 # Whitepapers
 
 ### Examples
 * [Civic](https://tokensale.civic.com/static/images/landing/CivicTokenSaleWhitePaper.pdf)
 * [Status](https://status.im/whitepaper.pdf)
 
-# Investment
 
-### Resources
-* [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
-* [Investment Guide To 'Crypto' Coin Offerings Rating Blockchain Startups](https://www.forbes.com/sites/rogeraitken/2017/01/06/investment-guide-to-crypto-coin-offerings-rating-blockchain-startups/#3079dc8e121b)
