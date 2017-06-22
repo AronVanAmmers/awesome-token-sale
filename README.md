@@ -1,6 +1,8 @@
 <h3 align="center">Awesome Token Sale<!-- Serve Confidently. --></h3>
 <p align="center">Curated list of the token sale resources / ICO resources</p>
 
+---
+
 > This list is to help navigate the token sale landscape and provide resources to help with everything in the process of launching a successful ICO / token sale
 
 *If you enjoy this list please contribute and share. We are also working on a list for once the token sale has completed and to help navigate running a decentralized organization: [Awesome Decentralized Organization](https://github.com/holographicio/awesome-decentralized-organization)*
