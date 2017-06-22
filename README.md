@@ -256,6 +256,8 @@ List of content:
   * [TheMerkle](https://themerkle.com/)
   * [CryptoSmile](http://www.cryptosmile.com/)
   * [Newbium](https://coins.newbium.com/)
+  * [Forklog](http://forklog.net/)
+  * [AllCoinsNews](http://allcoinsnews.com/)
 * General
   * [Rueters](http://www.reuters.com/)
   * [Forbes](https://www.forbes.com)
