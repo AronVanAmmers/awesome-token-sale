@@ -132,6 +132,8 @@ List of content:
   * [BlueYard](http://blueyard.com/) - BlueYard invests in founders with transforming ideas that decentralise markets, empower users and liberate data.
   * [NewAlchemy](https://newalchemy.io/investment)
   * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
+  * [Outlier Ventures](https://outlierventures.io/) - Outlier Ventures invests at the intersections of blockchains and other deep technologies like artificial intelligence, robotics, Internet of Things, 3D printing, and mixed reality.
+  
 #### Hedge Funds
   * [Polychain Capital](http://polychain.capital/) - (US) Polychain Capital manages a hedge fund committed to exceptional returns for investors through an actively managed portfolio of these blockchain assets.
   * BKCM - (US) BKCM LLC is a global investment management firm specializing in Global Macro and Currency investing.
